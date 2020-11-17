@@ -1,0 +1,4 @@
+.pokemon__img {
+  object-fit: contain;
+  object-position: center center;
+}
